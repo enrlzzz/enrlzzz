@@ -2,15 +2,15 @@
 
 **`(Dev Front-End)`**
 
-Me chamo Enrico e atualmente sou Desenvolvedor Front-End, faço vídeos interessantes para meu canal do YouTube "[Enrico Lizier][youtube]" Venha assistir! Rumo as 1k.
+Me chamo Enrico e atualmente sou Desenvolvedor Front-End, faço vídeos interessantes para meu canal do YouTube, Venha assistir! Rumo as 1k.
 
    <p align="left">
       <a href="https://www.youtube.com/@EnricoLdev">
-         <img alt="youtube subscribers" title="Se inscreva no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="Inscritos" title="Se inscreva no meu canal" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@EnricoLdev">
          <img alt="Views do YouTube" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/enrlzzz">
-         <img alt="followers" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="Seguidores" title="Me siga no Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/enrlzzz">
          <img alt="Total de Estrelas" title="Estrelas do GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
