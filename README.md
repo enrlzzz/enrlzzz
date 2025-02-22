@@ -2,7 +2,7 @@
 
 **`(Dev Front-End)`**
 
-Me chamo Enrico e atualmente sou Desenvolvedor Front-End, faço vídeos interessantes para meu canal do YouTube, Venha assistir! Rumo as 1k.
+My name is Enrico and I am currently a Front-End Developer, I make interesting videos for my YouTube channel, come watch! Heading for 1k.
 
    <p align="left">
       <a href="https://www.youtube.com/@EnricoLdev">
