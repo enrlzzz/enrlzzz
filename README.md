@@ -1,5 +1,3 @@
 ## Olá, eu sou o Enrico!
 
-- Estudando Java
-- Hoje trabalho com logística
-- e-mail: enricolg16@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
