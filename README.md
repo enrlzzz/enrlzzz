@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluç
 🎯 Meus objetivos:
 
 - Aprender **Spring Boot em Java**
-- **Criar meu primeiro portifólio**  
+- **Criar meu primeiro portifólio** ✅ 
 - Aprimorar conhecimentos no back-end e front-end  
 
 ---
