@@ -12,12 +12,6 @@
 
 Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções que impactem positivamente a vida das pessoas. Atualmente curso **Análise e Desenvolvimento de Sistemas na Facens** e estou construindo uma base sólida em desenvolvimento web, lógica de programação, back-end e entre outros.
 
-🎯 Meus objetivos:
-
-- Aprender **Spring Boot em Java**
-- **Criar meu primeiro portifólio** ✅ 
-- Aprimorar conhecimentos no back-end e front-end  
-
 ---
 
 🛠️ Tecnologias e Ferramentas
