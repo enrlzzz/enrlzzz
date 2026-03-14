@@ -25,10 +25,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,nodejs,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,nodejs,html,css,js" />
   </a>
 </p>
-
 <p align="center">Building with <strong>Claude Code</strong> & <strong>Gemini</strong>
 
 ---
