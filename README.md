@@ -13,8 +13,8 @@
 **[Hungry Stack](https://hungrystack.com.br)** — AI automation agency and web development  
 `founder` · `websites · automations · systems`
 
-**[Blog](https://enricoblogs.netlify.app)** — Content about technology, AI and development  
-`coming soon`
+**[My Links](https://enrico-social.netlify.app/)** — Content about technology, AI and development  
+`online`
 
 **[Portfolio](https://enricodev.com.br)** — Projects and cases  
 `online`
