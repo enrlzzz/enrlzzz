@@ -41,11 +41,10 @@
 </p>
 
 ---
-
-<p align="center">“Grandes softwares começam com pequenas ideias. E com café.” ☕</p>
-
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=enrlzzz&hide_border=true&background=0D0D14&ring=6C3FFF&fire=9B6EFF&currStreakLabel=A8A8C0&sideLabels=A8A8C0&dates=4A4A6A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=enrlzzz&show_icons=true&hide_border=true&title_color=B58900&icon_color=CB4B16&text_color=839496&bg_color=002B36&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enrlzzz&layout=compact&hide_border=true&title_color=B58900&text_color=839496&bg_color=002B36" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=enrlzzz&hide_border=true&background=002B36&ring=B58900&fire=CB4B16&currStreakLabel=B58900&sideLabels=839496&dates=586E75&currStreakNum=FDF6E3&sideNums=FDF6E3" />
 </p>
