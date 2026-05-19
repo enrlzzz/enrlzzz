@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<p align="center"><strong>ADS Student at Facens · Founder of Hungry Stack · Brazil 🇧🇷</strong></p>
+<p align="center"><strong>Junior BI Analyst · ADS Student at Facens · Founder of Hungry Stack · Brazil 🇧🇷</strong></p>
 
 ---
 
