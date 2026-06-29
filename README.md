@@ -42,12 +42,15 @@
 
 ---------
 
-![Waka Time](https://github-readme-stats.vercel.app/api/wakatime?username=enrlzzz&theme=github_dark&hide_border=true&layout=compact)
+<!-- ═══════════════════════════════════════════════
+     ⏱️  WAKATIME — CODING TIME
+═══════════════════════════════════════════════ -->
+<h3 align="center">⏱️ WakaTime — Coding Activity</h3>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=enrlzzz&theme=darkhub&no-frame=true&column=6&margin-w=4)
+<p align="center">
+  <a href="https://wakatime.com/@676c0837-886d-462d-8a59-db111b209b58">
+    <img src="https://wakatime.com/badge/user/676c0837-886d-462d-8a59-db111b209b58.svg?style=for-the-badge" alt="WakaTime coding time" />
+  </a>
+</p>
 
-
-
-
-> ⚙️ Rastreado via [WakaTime](https://wakatime.com) — horas reais de código por linguagem/editor.
 
